@@ -1,5 +1,6 @@
 
 [
-{romid:"Le1s_CN-20160224-Dk010s(稳定版)",romurl:"http://pan.baidu.com/s/1hqMjbMW",romsize:"564.3M"};
-{romid:"Le1s_CN-20160216-Dk010s",romurl:"http://pan.baidu.com/s/1hqMjbMW",romsize:"564.3M"}
+{name:"Le1s_CN-20160306-Dk011s",url:"http://pan.baidu.com/s/1hqMjbMW",size:"568.3M"};
+{name:"Le1s_CN-20160224-Dk010s(稳定版)",url:"http://pan.baidu.com/s/1hqMjbMW",size:"564.3M"};
+{name:"Le1s_CN-20160216-Dk010s",romurl:"url://pan.baidu.com/s/1hqMjbMW",size:"564.3M"}
 ]
