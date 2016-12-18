@@ -22,9 +22,10 @@
 * 内置ROOT SuperSU v2.79 版本（7.0暂时还无法实现内置到System模式，所以当刷机后清空数据会导致ROOT丢失请知悉）
 * 正在使用非7.0版本的所有ROM，刷入此ROM都建议双清刷入
 * 内置ROOT SuperSU v2.79 版本（7.0暂时还无法实现内置到System模式，所以当刷机后清空数据会导致ROOT丢失请知悉
-* 由于ROOT为非内置到System 的模式，响应会慢一些或者甚至无法被响应，请自行打开一次SuperSU 权限APP
+* 由于ROOT为非内置到System 的模式，响应会慢一些或者甚至无法被响应，请自行打开一次SuperSU 权限APP即可
 * ROM已自带ROOT，请不要在自行收入ROOT补丁（自行刷入低版本的ROOT可能会导致SIM卡无法被读取，ROM本身并没这个问题）
 * 加入Init.d 开机自启动脚本（如有需要把脚本放入 /system/etc/init.d 文件夹即可 权限无视）
+* Dk设置这次并没有内置到设置，在桌面快捷图标启动
 * Dk设置新增黑域开关，无需再自行找版本刷入。需要的自行开启到Dk设置即可。
 * Andorid 7.0暂未支持Xposed
 * ROM暂未内置Google 框架
