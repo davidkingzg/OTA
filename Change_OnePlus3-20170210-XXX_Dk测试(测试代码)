@@ -14,6 +14,19 @@
 - 修正删除自定义铃声后显示未知铃声问题
 - 修正QQ输入法带音效的皮肤无法使用问题
 - 提升系统稳定性
+What's new:
+* Upgraded to Android 7.0 Nougat
+* New Notifications Design
+* New Settings Menu Design
+* Multi-Window View
+* Notification Direct Reply
+* Custom DPI Support
+* Added Status Bar Icon options
+* Improved Shelf Customization
+* Updated APN Settings for select Carriers
+* Fixed Proximity Sensor bug during calls
+* Fixed Google Play Store download bug
+* Increased System Stability
 
 ### ROM有内置软件，希望大家支持一下作者联网使用一阵子后再使用RE管理器删除或者自行处理，谢谢
 
