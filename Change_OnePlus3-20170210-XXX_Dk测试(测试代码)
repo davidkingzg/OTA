@@ -14,19 +14,17 @@
 - 修正删除自定义铃声后显示未知铃声问题
 - 修正QQ输入法带音效的皮肤无法使用问题
 - 提升系统稳定性
-What's new:
-* Upgraded to Android 7.0 Nougat
-* New Notifications Design
-* New Settings Menu Design
-* Multi-Window View
-* Notification Direct Reply
-* Custom DPI Support
-* Added Status Bar Icon options
-* Improved Shelf Customization
-* Updated APN Settings for select Carriers
-* Fixed Proximity Sensor bug during calls
-* Fixed Google Play Store download bug
-* Increased System Stability
+
+# WHAT'S NEW
+
+* Added Wi-Fi IPv6 Support toggle
+* Optimized Smart Wi-Fi Switcher, if turned on, device will switch to data connection if Wi-Fi signal is consistently poor
+* Fixed crashes for Line
+* Increased stability of the Camera app
+* Optimized exposure when taking night time photos
+* Updated Audio Parameters and improved the quality of audio recordings
+* Updated APN settings for select carriers
+* Amazon Prime App will be pre-installed for India Users
 
 ### ROM有内置软件，希望大家支持一下作者联网使用一阵子后再使用RE管理器删除或者自行处理，谢谢
 
