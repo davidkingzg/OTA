@@ -1,6 +1,15 @@
 [
-{name:"NX549J-20170324-V2.01(稳定版)",url:"https://share.weiyun.com/9cd0a49f24cead87089d31bbb9ab4ab8",url2:"https://pan.baidu.com/s/1hsJZzJe",size:"1.29G"};
-{name:"NX549J-20170309-V1.32(稳定版)",url:"https://pan.baidu.com/s/1qYBAKKs",url2:"https://share.weiyun.com/5b7a7d0dc6fbb194acbd775473d979e9",size:"1.14G"};
+
+{name:"NX549J-20170324-V2.01(稳定版)",
+url:"https://share.weiyun.com/9cd0a49f24cead87089d31bbb9ab4ab8",
+url2:"https://pan.baidu.com/s/1hsJZzJe",
+bbsurl:"http://bbs.nubia.cn/thread-837977-1-1.html",size:"1.29G"};
+
+{name:"NX549J-20170309-V1.32(稳定版)",
+url:"https://pan.baidu.com/s/1qYBAKKs",
+url2:"https://share.weiyun.com/5b7a7d0dc6fbb194acbd775473d979e9",
+bbsurl:"",size:"1.14G"};
+
 {name:"NX549J-20170105-V1.30(稳定版)",url:"https://pan.baidu.com/s/1i52smod",url2:"https://share.weiyun.com/cbfe8aee27923ab5fb72e67d7439766a",size:"1.08G"};
 {name:"NX549J-20161206-V1.27(稳定版)",url:"https://pan.baidu.com/s/1hrY6yR6",url2:"https://share.weiyun.com/1f43f4c00bac5c35c82ebff4a11aeace",size:"1.08G"}
 ]
