@@ -2,6 +2,8 @@
   "latest": {
     "versionName": "9.9.3.6.oneplus.202003151969",
     "download_url": "https://qianyegroup.gitee.io/MagiskBuilds/files/MagiskManager-v7.5.1.apk",
-    "note": "https://raw.githubusercontent.com/topjohnwu/Magisk/7db523071d662dcc8eb187e3cbae141c716ba045/app/src/main/res/raw/changelog.md"
+    "changlog": "# v7.5.1
+- Fix toggling app components in MagiskHide screen
+- Update translations"
   }
 }
